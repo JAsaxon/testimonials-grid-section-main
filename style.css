@@ -18,7 +18,20 @@ body{
     display: table-cell;
 
 }
-img{
+.title{
+    display: flex;
+
+}
+.title-text{
+    margin-left: 1em;
+}
+.img{
+    width: 5em;
+    height: 5em;
+    border: hsl(263, 59%, 62%) 4px solid;
+    border-radius: 100%;
+}
+.pattern{
     position: absolute;
     right: 7.5em;
     top: 0;
