@@ -26,8 +26,8 @@ body{
     margin-left: 1em;
 }
 .img{
-    width: 3em;
-    height: 3em;
+    width: 1.5em;
+    height: 1.5em;
     border: hsl(263, 59%, 62%) 4px solid;
     border-radius: 100%;
 }
